@@ -5,7 +5,7 @@ This formation is a complete guide to bug bounty hunting. The main goal is to co
 
 ---
 
-## Bug Bounty vs. Penetration Testing
+## Bug Bounty vs Penetration Testing
 It is important to understand the key difference between these two fields:
 
 * **Penetration Testing:** This is a formal engagement where a company hires you to test a specific application or network. It has a defined scope and a fixed timeline.
