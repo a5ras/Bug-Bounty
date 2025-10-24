@@ -9,8 +9,6 @@ The main goal of this repo is to:
 * Organize my notes on different vulnerability classes.
 * Build a portfolio of my lab work and projects to show my skills.
 
----
-
 ## 🗂️ Table of Contents
 
 This repository is organized by the modules from my web security formation. Each folder contains my notes and labs for that specific topic.
