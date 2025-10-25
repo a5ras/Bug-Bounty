@@ -49,7 +49,7 @@ This will download the folder to your machine, likely under a directory named af
 
 #### 3.2: Analyze the History (Linux Terminal)
 
-You asked how to do this in a Linux terminal. Once you have the `.git` folder, `cd` into that directory. Here are the most important Git commands for finding secrets:
+In a Linux terminal. Once you have the `.git` folder, `cd` into that directory. Here are the most important Git commands for finding secrets:
 
 1.  **`git log`**: This is the most important command. It shows you a list of all the commits (changes) made to the project, from newest to oldest.
 
