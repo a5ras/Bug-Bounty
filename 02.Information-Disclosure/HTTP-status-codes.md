@@ -28,4 +28,9 @@ All status codes are grouped into five main categories:
 
 Here is a summary image of the most common HTTP status codes:
 
-![HTTP Status Codes Summary](./images/http-codes-table.png)
+<div style="text-align: center;">
+    <img src="./images/http-codes-table.png" alt="HTTP Status Codes Summary" width="40%" />
+</div>
+
+---
+**See ya in the next lesson!**
