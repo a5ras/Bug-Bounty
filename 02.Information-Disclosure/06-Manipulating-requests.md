@@ -1,4 +1,4 @@
-## 05: Manipulating Requests
+# 06: Manipulating Requests
 
 In this lesson, we will learn how web applications can accidentally leak sensitive information through error messages. We will also explore the fundamental difference between GET and POST requests.
 
@@ -17,7 +17,7 @@ We can see that the ID of the product changes every time we click on a new one. 
 
 ---
 
-## GET vs. POST Requests
+## GET vs POST Requests
 
 The URL we see (`?productId=4`) is a clear sign that the website is using a **GET** request.
 
