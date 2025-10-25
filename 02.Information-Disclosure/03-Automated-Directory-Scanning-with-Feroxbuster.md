@@ -43,6 +43,12 @@ Feroxbuster will display the directories and files it finds, along with their HT
 Look for entries with a **`200 OK`** status code, as this indicates accessible content. You must review these results to find anything sensitive that shouldn't be public.
 
 For example, you might discover a file like `phpinfo.php`. This file contains detailed configuration information about the server's PHP environment and often includes sensitive data, such as a `SECRET_KEY`.
+> **What is the `SECRET_KEY`?**
+>
+> A `SECRET_KEY` is a crucial security component in many web frameworks (like Django, Flask, etc.). It's a unique, random string used for cryptographic signing.
+>
+> * **Purpose:** It's used to sign session cookies, password reset tokens, and other security-sensitive data.
+> * **Risk:** If an attacker gets this key, they can forge their own cookies and "sign" them, allowing them to impersonate any user, including administrators. It should *never* be exposed publicly. Finding it in a debug file like `phpinfo.php` is a critical vulnerability.
 
 ### Step 4: Solving the Lab 🏆
 
