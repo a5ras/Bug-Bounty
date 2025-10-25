@@ -1,4 +1,4 @@
-# 01: robots.txt 🤖
+# 02: robots.txt 
 
 As I said, we will use the website **PortSwigger** to practice on these vulnerabilities. This lab is a classic example of Information Disclosure.
 
@@ -6,7 +6,7 @@ As I said, we will use the website **PortSwigger** to practice on these vulnerab
 
 ---
 
-## 🗺️ Lab Walkthrough
+## Lab Walkthrough
 
 ### Step 1: Access the Lab
 When you are on the webpage for the lab, click on **"Access Lab"**. This is going to open the lab for you.
