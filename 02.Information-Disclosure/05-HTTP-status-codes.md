@@ -1,4 +1,4 @@
-# HTTP Response Status Codes
+# 05: HTTP Response Status Codes
 
 In this lesson, we will learn about the HTTP status codes. You saw these when we used `feroxbuster`—it shows codes next to the paths it discovers.
 
