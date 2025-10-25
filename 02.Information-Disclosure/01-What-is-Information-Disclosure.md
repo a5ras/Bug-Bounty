@@ -7,7 +7,7 @@ The core principle of this vulnerability is **sensitive data exfiltration**—th
 
 ---
 
-## 🌎 Relation to OWASP Top 10
+## Relation to OWASP Top 10
 
 The **OWASP (Open Web Application Security Project)** is a non-profit organization that provides unbiased, practical information about web and software security. Their most famous project is the **OWASP Top 10**, which ranks the 10 most critical web security risks.
 
@@ -15,7 +15,7 @@ Information Disclosure is directly related to **A02:2021 - Cryptographic Failure
 
 ---
 
-## 🤔 Why Do We Start With This Vulnerability?
+## Why Do We Start With This Vulnerability?
 
 This vulnerability is the perfect starting point for any bug bounty hunter for two main reasons:
 
@@ -28,7 +28,7 @@ This vulnerability is the perfect starting point for any bug bounty hunter for t
 
 ---
 
-## 💥 The Real Impact: A Gateway Vulnerability
+## The Real Impact: A Gateway Vulnerability
 
 We can (and should) report this vulnerability as soon as we find it. But its true power is that the **exfiltrated data can help us find other, more severe vulnerabilities.**
 
