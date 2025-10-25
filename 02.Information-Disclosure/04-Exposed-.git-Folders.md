@@ -1,4 +1,4 @@
-# 04: Exploiting Exposed .git Folders 📁
+# 04: Exploiting Exposed .git Folders 
 
 This walkthrough covers how to find and exploit a publicly exposed `.git` folder to access version control history and uncover sensitive information.
 
@@ -6,7 +6,7 @@ This walkthrough covers how to find and exploit a publicly exposed `.git` folder
 
 ---
 
-## 🗺️ Lab Walkthrough
+## Lab Walkthrough
 
 ### Step 1: Information Gathering
 
@@ -99,6 +99,6 @@ As you noted, you can also use a graphical tool.
 4.  Select **"Visualize master's History"**.
 5.  This will show you a visual graph of all the commits. You can click on each one to see what changed and look for sensitive information.
 
-### Step 4: Solving the Lab 🏆
+### Step 4: Solving the Lab 
 
 To solve this lab, just read the instructions and follow the steps we learned. You will need to find the exposed `.git` folder, analyze its history, and find a secret that was accidentally committed.
