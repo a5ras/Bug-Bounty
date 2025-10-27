@@ -26,3 +26,7 @@ The vulnerability becomes even more dangerous when it's not just about *viewing*
 This is not a theoretical vulnerability. Major websites like **Uber, GitHub, and Shopify** have all had and fixed serious Broken Access Control bugs.
 
 In this module, we will learn how to find and exploit these vulnerabilities. In the next parts, we will dive deeper into the specific types like CSRF.
+
+## Next Lesson
+
+In the next lesson, we will use a target website to start practicing how to find these leaks. See ya.
