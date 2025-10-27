@@ -1,6 +1,6 @@
 # 01: Introduction to Bug Bounty Hunting
 
-## 🎯 Formation Goal
+## Formation Goal
 This formation is a complete guide to bug bounty hunting. The main goal is to cover the most common and critical vulnerabilities found in modern web applications.
 
 ---
@@ -13,12 +13,12 @@ It is important to understand the key difference between these two fields:
 
 ---
 
-## 📚 Core Topics Covered
+## Core Topics Covered
 We will cover a wide range of attacks, with a special focus on the **OWASP Top 10 (2021)**, which is the industry standard for web application security.
 
 ![OWASP Top 10 2021](./images/owasp-top-10.jpg)
 
 ---
 
-## 🏁 Final Objective
+## Final Objective
 At the end of this formation, we will apply all the skills, techniques, and methodologies we've learned to a **real, live target** to find our first bug.
