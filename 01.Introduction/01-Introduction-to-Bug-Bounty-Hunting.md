@@ -16,7 +16,7 @@ It is important to understand the key difference between these two fields:
 ## 📚 Core Topics Covered
 We will cover a wide range of attacks, with a special focus on the **OWASP Top 10 (2021)**, which is the industry standard for web application security.
 
-![OWASP Top 10 2021](owasp-top-10.jpg)
+![OWASP Top 10 2021](./images/owasp-top-10.jpg)
 
 ---
 
