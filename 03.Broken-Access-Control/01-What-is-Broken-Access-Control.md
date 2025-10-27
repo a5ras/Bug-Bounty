@@ -8,11 +8,15 @@ This is a very broad category that includes many other specific vulnerabilities,
 * Insecure Direct Object References (IDOR)
 * And many others
 
+---
+
 ## What is the Vulnerability?
 
 At its core, Broken Access Control is a vulnerability where a user can **access data or perform actions that are outside of their intended privileges.**
 
 This means the server fails to properly check if a user is *actually authorized* to do what they are asking to do.
+
+---
 
 ### A Simple Example
 
@@ -26,6 +30,8 @@ The vulnerability becomes even more dangerous when it's not just about *viewing*
 This is not a theoretical vulnerability. Major websites like **Uber, GitHub, and Shopify** have all had and fixed serious Broken Access Control bugs.
 
 In this module, we will learn how to find and exploit these vulnerabilities. In the next parts, we will dive deeper into the specific types like CSRF.
+
+---
 
 ## Next Lesson
 
