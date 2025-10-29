@@ -17,7 +17,7 @@ This means if we want to find this vulnerability, we should look for places wher
 ## Lab: Broken Access Control
 
 Now let's see a lab that has this vulnerability.
-* **Lab:** [User role controlled by request parameter](https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-password-disclosure)
+* **Lab:** [User ID controlled by request parameter with password disclosure](https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-password-disclosure)
 
 ### Step 1: Reconnaissance
 As usual, click "Access the Lab." He already gives us the credentials `wiener:peter` and asks us to delete the account of `carlos`.
